@@ -35,9 +35,13 @@ Yeni sayfaya yonlendirileceksiniz.
 Bu tokenları yaratırken hesabınızda vermeniz gereken izinler:
 
 pages_show_list
+
 instagram_basic
+
 instagram_content_publish
+
 pages_read_engagement
+
 public_profile
 
 Uretilen tokenlarin bazilarinin suresi vardir. O yuzden kodun icinde api tokenlarin aktif 
